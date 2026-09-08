@@ -1,0 +1,26 @@
+[
+  {
+    "ride_id": 101,
+    "status": "ongoing",
+    "bike_id": 3,
+    "start_station": "University Campus"
+  },
+  {
+    "ride_id": 102,
+    "status": "completed",
+    "bike_id": 2,
+    "start_station": "City Square"
+  },
+  {
+    "ride_id": 103,
+    "status": "ongoing",
+    "bike_id": 5,
+    "start_station": "Old Town"
+  },
+  {
+    "ride_id": 104,
+    "status": "cancelled",
+    "bike_id": 4,
+    "start_station": "Metro Station"
+  }
+]

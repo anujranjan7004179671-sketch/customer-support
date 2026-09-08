@@ -1,0 +1,38 @@
+[
+  {
+    "bike_id": 1,
+    "status": "available",
+    "battery": 82,
+    "station_id": 1
+  },
+  {
+    "bike_id": 2,
+    "status": "available",
+    "battery": 95,
+    "station_id": 2
+  },
+  {
+    "bike_id": 3,
+    "status": "in_use",
+    "battery": 67,
+    "station_id": 3
+  },
+  {
+    "bike_id": 4,
+    "status": "maintenance",
+    "battery": 40,
+    "station_id": 4
+  },
+  {
+    "bike_id": 5,
+    "status": "available",
+    "battery": 76,
+    "station_id": 5
+  },
+  {
+    "bike_id": 6,
+    "status": "charging",
+    "battery": 21,
+    "station_id": 2
+  }
+]

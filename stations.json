@@ -1,0 +1,32 @@
+[
+  {
+    "station_id": 1,
+    "name": "Athens Central",
+    "available_bikes": 5,
+    "available_docks": 10
+  },
+  {
+    "station_id": 2,
+    "name": "City Square",
+    "available_bikes": 8,
+    "available_docks": 7
+  },
+  {
+    "station_id": 3,
+    "name": "University Campus",
+    "available_bikes": 3,
+    "available_docks": 12
+  },
+  {
+    "station_id": 4,
+    "name": "Metro Station",
+    "available_bikes": 6,
+    "available_docks": 9
+  },
+  {
+    "station_id": 5,
+    "name": "Old Town",
+    "available_bikes": 2,
+    "available_docks": 14
+  }
+]
